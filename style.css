@@ -1,0 +1,13 @@
+.body{
+    font-family:'Lucida Grande','Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3',Meiryo, メイリオ, sans-serif;
+}
+
+#sitename{
+    font-size:22px;
+
+}
+
+.glyphicon{
+ margin-right:3px; 
+ margin-bottom:-2px;
+}
