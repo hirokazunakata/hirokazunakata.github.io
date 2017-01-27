@@ -11,3 +11,23 @@
  margin-right:3px; 
  margin-bottom:-2px;
 }
+
+.header{
+    margin-top:100px;
+}
+
+#logo{
+    text-align:center;
+}
+
+#logo img {
+  max-width: 360px;
+  border: 5px solid #fff;
+  border-radius: 100%;
+}
+
+h1,h2,h3,p{
+    text-align:center;
+}
+
+
